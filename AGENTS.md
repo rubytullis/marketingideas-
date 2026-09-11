@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every completed result must show exactly three distinct marketing ideas personalized with the visitor’s company name, and every idea must include both a concrete next step and a brief explanation of why it fits the selected goal.
 
 ## Workflow
 
